@@ -16,6 +16,7 @@ The app also groups experience, employment gaps, and expected salaries into desc
 
 - Python 3.10 or newer
 - The included `AI_Hiring_Bias_Dataset.csv` file
+- Dependencies listed in `requirements.txt` (installed automatically by Streamlit Community Cloud)
 
 ## Setup and run
 
